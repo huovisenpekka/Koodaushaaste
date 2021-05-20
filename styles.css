@@ -1,0 +1,39 @@
+table, th, td {
+  border: 2px dashed black;
+  background-color: #cc7a00;
+}
+
+th {
+  background-color: white;
+  border: 2px outset black;
+}
+
+table {
+  background-color: white;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  text-align:center;
+  padding: 0px
+  font-family: "Calibri", Times, serif;
+}
+
+body {
+  background-color: black;
+  color: black;
+}
+
+h2 {
+  color: #ffffff;
+  font-family: "Impact", Times, serif;
+}
+
+p{
+  color: #ffffff;
+  font-family: "Calibri", Times, serif;
+}
