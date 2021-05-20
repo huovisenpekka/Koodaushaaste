@@ -8,7 +8,7 @@ var vauhti2 = parseInt(prompt("Syötä toinen verrattava ajonopeus", "km/h (koko
 if (Number.isInteger(parseInt(kilsat)) && Number.isInteger(parseInt(vauhti1)) && Number.isInteger(parseInt(vauhti2))) {
 
   if (kilsat.toString().length > 6 || vauhti1.toString().length > 6 || vauhti2.toString().length > 6) {
-    alert("Koitit syöttää turhan pitkiä lukuja, yritätkö ryökäle kaataa selaimen?\nPäivitä sivu aloittaaksesi alusta");  
+    alert("Koitit syöttää turhan pitkiä lukuja, yritätkö ryökäle kaataa selaimen?\nPäivitä sivu aloittaaksesi alusta!");  
   } else {
 
     /* Alustetaan eri muuttujat eri autotyypeille bensankulutuslaskentaa varten*/
