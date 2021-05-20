@@ -2,7 +2,8 @@
 Solidabiksen koodaushaaste 2021
 
 **Mitä teknologioita olet käyttänyt ja millä käyttöjärjestelmällä?**
-  Toteutuksessa on käytetty seuraavia teknologioita; html, css, javascript
+  Toteutuksessa on käytetty seuraavia teknologioita; html, css, javascript. 
+  Windows-käyttöjärjestelmällä. 
   
 **Ohjeet miten ratkaisusi pystytetään ja käynnistetään?**
   Ohjelma käynnistetään avaamalla "index.html" -tiedosto selaimella.
@@ -11,6 +12,6 @@ Solidabiksen koodaushaaste 2021
 
 **Muutaman lauseen kuvaus tekemästäsi ratkaisusta?**
   Eipä ole näitä kyseisiä teknologioita tarvinnut analyytikon työssä käyttää, joten halusin vähän verestää vanhojen verkkokurssien oppeja.
-  Simppeli html-css-js paketti.
+  Simppeli ja kevyt "html-css-js" -paketti, pelkistetyllä ulkoasulla.
   
-  Saa olla yhteydessä tietenkin, aiheesta kuin aiheesta :)
+  Aina saa olla yhteydessä tietenkin, aiheesta kuin aiheesta :)
