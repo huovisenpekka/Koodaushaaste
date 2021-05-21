@@ -121,6 +121,15 @@ if (Number.isInteger(parseInt(kilsat)) && Number.isInteger(parseInt(vauhti1)) &&
 
        document.getElementById("ero1Litroissa3").innerHTML = palautaLitraErotus(auto3KulutusAjetullaMatkalla1kmhVauhtia, auto3KulutusAjetullaMatkalla1kmhVauhtia2);
        document.getElementById("ero2Litroissa3").innerHTML = palautaLitraErotus(auto3KulutusAjetullaMatkalla1kmhVauhtia2, auto3KulutusAjetullaMatkalla1kmhVauhtia);
+     } else {
+       document.getElementById("ero1Litroissa1").innerHTML = "Juna kulkee sähköllä!";
+       document.getElementById("ero2Litroissa1").innerHTML = "Juna kulkee sähköllä!";
+
+       document.getElementById("ero1Litroissa2").innerHTML = "Juna kulkee sähköllä!";
+       document.getElementById("ero2Litroissa2").innerHTML = "Juna kulkee sähköllä!";
+
+       document.getElementById("ero1Litroissa3").innerHTML = "Juna kulkee sähköllä!";
+       document.getElementById("ero2Litroissa3").innerHTML = "Juna kulkee sähköllä!";
      }
 
 }
